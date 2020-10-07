@@ -1,5 +1,5 @@
 /////////////////////////////////////////
-//JS CODE PUZZLE
+//JS CODE PUZZLE ONE
 /////////////////////////////////////////
 
 //Given an amount of trees and area make a function to calculate how many total animals can live there. Each resource is reusable to all animals. Ex: 3 acres could have one wolf, one elk, three badgers and three rabbits.
@@ -12,3 +12,10 @@
 const animalCalc = (trees, acres) => {
   return 0;
 };
+
+/////////////////////////////////////////
+//JS CODE PUZZLE TWO
+/////////////////////////////////////////
+//Make new classes each extending the old class, then make a final instance.
+//HumanClass =>  MagicalHumanClass => WizardClass => HarryPotterInstance
+//You can make the classes with whatever properties you want making sure that the properties that it inherits from parent classes are desired and that no unecessary ones are inherited.
